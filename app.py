@@ -1,6 +1,6 @@
 #!/usr/bin/python
 
-from tkinter import *
+from Tkinter import *
 root = Tk()
 # Code to add widgets will go here...
 li = 'Red Green Blue Yellow'.split()
